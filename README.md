@@ -1,1 +1,1 @@
-# algorirmos_programacion
+# algoritmos_programacion
